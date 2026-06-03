@@ -66,8 +66,10 @@ CRUD completo de usuários com Java e SQLite, praticando conexão com banco de d
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DouglasLira-Dev&show_icons=true&theme=dark&hide_border=true&locale=pt-br&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLira-Dev&layout=compact&theme=dark&hide_border=true&locale=pt-br&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=DouglasLira-Dev&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLira-Dev&layout=compact&theme=dark&hide_border=true&locale=pt-br" alt="Top Langs" />
+
 
 </div>
 
