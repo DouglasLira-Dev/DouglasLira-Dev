@@ -66,14 +66,14 @@ CRUD completo de usuários com Java e SQLite, praticando conexão com banco de d
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DouglasLira-Dev&show_icons=true&theme=dark&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLira-Dev&layout=compact&theme=dark&hide_border=true&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DouglasLira-Dev&show_icons=true&theme=dark&hide_border=true&locale=pt-br&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLira-Dev&layout=compact&theme=dark&hide_border=true&locale=pt-br&cache_seconds=86400)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DouglasLira-Dev&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=DouglasLira-Dev&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
