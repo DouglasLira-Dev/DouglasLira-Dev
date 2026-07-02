@@ -68,7 +68,6 @@ Tenho experiência prática no desenvolvimento e deploy de ecossistemas Fullstac
 </div>
 
 ### 🐍 Contribution Snake
-O fluxo abaixo é atualizado dinamicamente por meio de workflows automatizados e se adapta ao tema do seu GitHub:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasLira-Dev/DouglasLira-Dev/output/github-contribution-grid-snake-dark.svg">
