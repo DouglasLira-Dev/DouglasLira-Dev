@@ -1,118 +1,92 @@
 # Olá, eu sou o Douglas Lira 👋
 
-![Visitors](https://komarev.com/ghpvc/?username=DouglasLira-Dev&color=6ee7b7&style=flat-square&label=Visitantes)
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Buscando%20Est%C3%A1gio%20%2F%20J%C3%BAnior-green?style=for-the-badge&logo=target" alt="Status">
+  <img src="https://img.shields.io/badge/Foco-Java%20%7C%20Cybersecurity-blue?style=for-the-badge&logo=oracle" alt="Foco">
+</div>
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por resolver problemas reais com código.  
-Atualmente focado em **Java Full Stack**, construindo projetos práticos com Spring Boot, APIs REST e deploy em produção.
+<br>
 
----
+Sou estudante de **Análise e Desenvolvimento de Sistemas (3º Período)** focado no desenvolvimento de aplicações **Back-end com Java/Spring Boot** e com forte interesse em **Hacking Ético e Segurança de Aplicações**. Possuo certificação em **Segurança de APIs pela IBSEC** e busco aplicar o conceito de *Secure by Design* para mitigar vulnerabilidades desde a escrita do código.
 
-## 🛠️ Tecnologias que utilizo
-
-![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=springboot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-009688)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-3-lightblue?logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-3.9+-red?logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-versionamento-orange?logo=git&logoColor=white)
-![Apache POI](https://img.shields.io/badge/Apache%20POI-5.2.5-darkred)
+Tenho experiência prática no desenvolvimento e deploy de ecossistemas Fullstack, aplicando testes automatizados (JUnit 5/Mockito), containerização com Docker e esteiras de automação com CI/CD[cite: 2].
 
 ---
 
-## 📚 Estou aprendendo
+## 📌 Projetos em Destaque
 
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit-5-25A162?logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-testes-green)
+### 🛠️ [Stock Manager API](https://github.com/DouglasLira-Dev/stock-manager-api)
+> **API REST para controle de inventário com autenticação e regras críticas de estoque.**[cite: 2]
+* **Segurança Aplicada:** Implementação de autenticação stateless com **JWT**, criptografia de senhas com **BCrypt** e controle rigoroso de acessos via **Spring Security**[cite: 2].
+* **Qualidade & Confiabilidade:** Cobertura de testes unitários automatizados com **JUnit 5 e Mockito** (20+ testes)[cite: 2].
+* **Funcionalidades:** Histórico de movimentações paginado, tratamento de exceções customizado, regras de negócio para estoque mínimo, documentação interativa via **Swagger** e monitoramento de integridade com **Spring Actuator**[cite: 2].
 
----
+### 📊 [Planilha Reconciliation V2](https://github.com/DouglasLira-Dev/planilha-reconciliation-v2)
+> **Sistema Web Fullstack para reconciliação mensal de dados de estagiários.**[cite: 2]
+* **Problema Real Resolvido:** Automatiza o cruzamento complexo de dados entre os setores financeiro e de cadastro (solução evoluída a partir de um sistema desktop em Java que criei e que processava mais de 500 registros)[cite: 2].
+* **Arquitetura Moderna:** Back-end robusto construído em **Spring Boot 3** integrado a um ecossistema front-end em **React + TypeScript** e banco de dados **PostgreSQL**[cite: 2].
+* **DevOps & Infra:** Containerização completa do ambiente utilizando **Docker** e gerenciamento de tráfego com **Nginx** atuando como Proxy Reverso[cite: 2].
 
-## 📂 Projetos em destaque
-
-### 🌐 [Portfólio Web — Spring Boot](https://portfolio-douglas-r7u0.onrender.com)
-Portfólio pessoal fullstack com Spring Boot no back-end, Thymeleaf para renderização e API REST expondo projetos em JSON. Deploy em produção com Docker no Render.com.  
-`Java` `Spring Boot` `Thymeleaf` `REST API` `Docker` `HTML/CSS`
-
----
-
-### 💰 [Controle Financeiro](https://github.com/DouglasLira-Dev/controle-financeiro)
-Sistema de controle mensal de gastos com Java e SQLite. CRUD completo, categorias com limite de orçamento, alertas automáticos e menu interativo no console.  
-`Java` `SQLite` `Maven` `JDBC`
+### 💻 [Portfolio V2](https://github.com/DouglasLira-Dev/portfolio-v2)
+> **Ecossistema de portfólio automatizado ponta a ponta.**[cite: 2]
+* **CI/CD Automatizado:** Pipeline de integração e entrega contínua estruturado via **GitHub Actions** realizando deploys automatizados em produção (Back-end no Render e Front-end na Vercel)[cite: 2].
+* **Garantia de Qualidade:** 23 testes automatizados integrando fluxos de ponta a ponta com **JUnit 5, Mockito e Vitest**[cite: 2].
+* **Stack:** Spring Boot 3, React 19, Material UI e PostgreSQL[cite: 2].
 
 ---
 
-### 📊 [Comparador de Planilhas de Estágios](https://github.com/DouglasLira-Dev/comparador-planilha-estagio)
-Compara dados de estagiários entre duas planilhas Excel, identifica divergências, gera relatório detalhado com múltiplas abas e exporta executável `.exe` autônomo.  
-`Java` `JavaFX` `Apache POI` `BCrypt` `jpackage`
+## 🚀 Minhas Stacks Técnicas
+
+### 💻 No dia a dia eu utilizo:
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/React-202327?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+* **Linguagens e Back-end:** Java 17/21, Spring Boot 3, Spring Data JPA, JWT, REST APIs, Hibernate[cite: 2].
+* **Testes & Qualidade:** JUnit 5, Mockito, Swagger, Spring Actuator, Vitest[cite: 2].
+* **Banco de Dados & DevOps:** PostgreSQL, MySQL, SQLite, Docker, Git, GitHub Actions, Maven[cite: 2].
+* **Front-end:** React (18/19), TypeScript, Material UI, Thymeleaf, HTML5/CSS3[cite: 2].
+
+### 🛡️ O que estou estudando/aprofundando no momento:
+![](https://img.shields.io/badge/Hacking_Ético-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/API_Security-Red?style=for-the-badge&logo=owasp&logoColor=white)
+
+* **Segurança de Aplicações:** OWASP Top 10 API Security Risks, técnicas de Pentest focado em APIs web, auditoria de código-fonte e proteção contra ataques comuns de injeção e quebra de autenticação.
+* **Certificação:** *APIs Seguras na Era da IA (Essencial)* — IBSEC[cite: 2].
 
 ---
 
-### 🗄️ [Java SQLite CRUD de Usuários](https://github.com/DouglasLira-Dev/java-sqlite-crud-usuarios)
-CRUD completo de usuários com Java e SQLite, praticando conexão com banco de dados via JDBC.  
-`Java` `SQLite` `JDBC`
-
----
-
-## 📊 Estatísticas
+## 📈 Constância e Contribuições
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DouglasLira-Dev&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLira-Dev&layout=compact&theme=dark&hide_border=true&locale=pt-br" alt="Top Langs" />
-
-
+  <!-- Bloco de Streak estável que exibe sua constância real de código -->
+  <img src="https://streak-stats.demolab.com?user=DouglasLira-Dev&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </div>
 
-<div align="center">
+### 🐍 Contribution Snake
+O fluxo abaixo é atualizado dinamicamente por meio de workflows automatizados e se adapta ao tema do seu GitHub:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DouglasLira-Dev&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasLira-Dev/DouglasLira-Dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasLira-Dev/DouglasLira-Dev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/DouglasLira-Dev/DouglasLira-Dev/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-## 🐍 Atividade de contribuições
+## 📬 Vamos nos conectar?
 
-<div align="center">
+* **LinkedIn:** [linkedin.com/in/dev-douglas-lira](https://www.linkedin.com/in/dev-douglas-lira)[cite: 2]
+* **Portfólio Web:** [portfolio-v2-douglas17.vercel.app](https://portfolio-v2-d9xp5hrh7-douglas17.vercel.app/)[cite: 2]
+* **E-mail:** [douglasliradafonseca.ds@gmail.com](mailto:douglasliradafonseca.ds@gmail.com)[cite: 2]
 
-![Snake animation](https://raw.githubusercontent.com/DouglasLira-Dev/DouglasLira-Dev/output/github-contribution-grid-snake-dark.svg)
+<br>
 
-</div>
-
----
-
-## 🎯 Atualmente
-
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🚀 Portfólio fullstack Java em produção: [portfolio-douglas-r7u0.onrender.com](https://portfolio-douglas-r7u0.onrender.com)
-- 🔨 Desenvolvendo projetos práticos com Spring Boot e REST APIs
-- 🌱 Estudando Spring Security, JPA e testes com JUnit
-- 📍 Recife, PE — aberto a oportunidades de estágio
-
----
-
-## 📬 Contato
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas%20Lira-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-douglas-lira/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-Live-6ee7b7?logo=vercel&logoColor=black)](https://portfolio-douglas-r7u0.onrender.com)
-[![Gmail](https://img.shields.io/badge/Gmail-douglasliradafonseca.ds%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:douglasliradafonseca.ds@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <sub>Construindo um projeto de cada vez 🚀</sub>
-</div>
+<p align="center">
+  <!-- Contador dwyl configurado para visitas únicas -->
+  <img src="https://hits.dwyl.com/DouglasLira-Dev/DouglasLira-Dev.svg?show=unique" alt="Contador de Visitas Únicas">
+</p>
