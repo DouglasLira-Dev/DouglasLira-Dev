@@ -9,29 +9,29 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (3º Período)** focado no desenvolvimento de aplicações **Back-end com Java/Spring Boot** e com forte interesse em **Hacking Ético e Segurança de Aplicações**. Possuo certificação em **Segurança de APIs pela IBSEC** e busco aplicar o conceito de *Secure by Design* para mitigar vulnerabilidades desde a escrita do código.
 
-Tenho experiência prática no desenvolvimento e deploy de ecossistemas Fullstack, aplicando testes automatizados (JUnit 5/Mockito), containerização com Docker e esteiras de automação com CI/CD[cite: 2].
+Tenho experiência prática no desenvolvimento e deploy de ecossistemas Fullstack, aplicando testes automatizados (JUnit 5/Mockito), containerização com Docker e esteiras de automação com CI/CD.
 
 ---
 
 ## 📌 Projetos em Destaque
 
 ### 🛠️ [Stock Manager API](https://github.com/DouglasLira-Dev/stock-manager-api)
-> **API REST para controle de inventário com autenticação e regras críticas de estoque.**[cite: 2]
-* **Segurança Aplicada:** Implementação de autenticação stateless com **JWT**, criptografia de senhas com **BCrypt** e controle rigoroso de acessos via **Spring Security**[cite: 2].
-* **Qualidade & Confiabilidade:** Cobertura de testes unitários automatizados com **JUnit 5 e Mockito** (20+ testes)[cite: 2].
-* **Funcionalidades:** Histórico de movimentações paginado, tratamento de exceções customizado, regras de negócio para estoque mínimo, documentação interativa via **Swagger** e monitoramento de integridade com **Spring Actuator**[cite: 2].
+> **API REST para controle de inventário com autenticação e regras críticas de estoque.**
+* **Segurança Aplicada:** Implementação de autenticação stateless com **JWT**, criptografia de senhas com **BCrypt** e controle rigoroso de acessos via **Spring Security**.
+* **Qualidade & Confiabilidade:** Cobertura de testes unitários automatizados com **JUnit 5 e Mockito** (20+ testes).
+* **Funcionalidades:** Histórico de movimentações paginado, tratamento de exceções customizado, regras de negócio para estoque mínimo, documentação interativa via **Swagger** e monitoramento de integridade com **Spring Actuator**.
 
 ### 📊 [Planilha Reconciliation V2](https://github.com/DouglasLira-Dev/planilha-reconciliation-v2)
-> **Sistema Web Fullstack para reconciliação mensal de dados de estagiários.**[cite: 2]
-* **Problema Real Resolvido:** Automatiza o cruzamento complexo de dados entre os setores financeiro e de cadastro (solução evoluída a partir de um sistema desktop em Java que criei e que processava mais de 500 registros)[cite: 2].
-* **Arquitetura Moderna:** Back-end robusto construído em **Spring Boot 3** integrado a um ecossistema front-end em **React + TypeScript** e banco de dados **PostgreSQL**[cite: 2].
-* **DevOps & Infra:** Containerização completa do ambiente utilizando **Docker** e gerenciamento de tráfego com **Nginx** atuando como Proxy Reverso[cite: 2].
+> **Sistema Web Fullstack para reconciliação mensal de dados de estagiários.**
+* **Problema Real Resolvido:** Automatiza o cruzamento complexo de dados entre os setores financeiro e de cadastro (solução evoluída a partir de um sistema desktop em Java que criei e que processava mais de 500 registros).
+* **Arquitetura Moderna:** Back-end robusto construído em **Spring Boot 3** integrado a um ecossistema front-end em **React + TypeScript** e banco de dados **PostgreSQL**.
+* **DevOps & Infra:** Containerização completa do ambiente utilizando **Docker** e gerenciamento de tráfego com **Nginx** atuando como Proxy Reverso.
 
 ### 💻 [Portfolio V2](https://github.com/DouglasLira-Dev/portfolio-v2)
-> **Ecossistema de portfólio automatizado ponta a ponta.**[cite: 2]
-* **CI/CD Automatizado:** Pipeline de integração e entrega contínua estruturado via **GitHub Actions** realizando deploys automatizados em produção (Back-end no Render e Front-end na Vercel)[cite: 2].
-* **Garantia de Qualidade:** 23 testes automatizados integrando fluxos de ponta a ponta com **JUnit 5, Mockito e Vitest**[cite: 2].
-* **Stack:** Spring Boot 3, React 19, Material UI e PostgreSQL[cite: 2].
+> **Ecossistema de portfólio automatizado ponta a ponta.**
+* **CI/CD Automatizado:** Pipeline de integração e entrega contínua estruturado via **GitHub Actions** realizando deploys automatizados em produção (Back-end no Render e Front-end na Vercel).
+* **Garantia de Qualidade:** 23 testes automatizados integrando fluxos de ponta a ponta com **JUnit 5, Mockito e Vitest**.
+* **Stack:** Spring Boot 3, React 19, Material UI e PostgreSQL.
 
 ---
 
@@ -46,17 +46,17 @@ Tenho experiência prática no desenvolvimento e deploy de ecossistemas Fullstac
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-202327?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-* **Linguagens e Back-end:** Java 17/21, Spring Boot 3, Spring Data JPA, JWT, REST APIs, Hibernate[cite: 2].
-* **Testes & Qualidade:** JUnit 5, Mockito, Swagger, Spring Actuator, Vitest[cite: 2].
-* **Banco de Dados & DevOps:** PostgreSQL, MySQL, SQLite, Docker, Git, GitHub Actions, Maven[cite: 2].
-* **Front-end:** React (18/19), TypeScript, Material UI, Thymeleaf, HTML5/CSS3[cite: 2].
+* **Linguagens e Back-end:** Java 17/21, Spring Boot 3, Spring Data JPA, JWT, REST APIs, Hibernate.
+* **Testes & Qualidade:** JUnit 5, Mockito, Swagger, Spring Actuator, Vitest.
+* **Banco de Dados & DevOps:** PostgreSQL, MySQL, SQLite, Docker, Git, GitHub Actions, Maven.
+* **Front-end:** React (18/19), TypeScript, Material UI, Thymeleaf, HTML5/CSS3.
 
 ### 🛡️ O que estou estudando/aprofundando no momento:
 ![](https://img.shields.io/badge/Hacking_Ético-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![](https://img.shields.io/badge/API_Security-Red?style=for-the-badge&logo=owasp&logoColor=white)
 
 * **Segurança de Aplicações:** OWASP Top 10 API Security Risks, técnicas de Pentest focado em APIs web, auditoria de código-fonte e proteção contra ataques comuns de injeção e quebra de autenticação.
-* **Certificação:** *APIs Seguras na Era da IA (Essencial)* — IBSEC[cite: 2].
+* **Certificação:** *APIs Seguras na Era da IA (Essencial)* — IBSEC.
 
 ---
 
@@ -80,9 +80,9 @@ O fluxo abaixo é atualizado dinamicamente por meio de workflows automatizados e
 
 ## 📬 Vamos nos conectar?
 
-* **LinkedIn:** [linkedin.com/in/dev-douglas-lira](https://www.linkedin.com/in/dev-douglas-lira)[cite: 2]
-* **Portfólio Web:** [portfolio-v2-douglas17.vercel.app](https://portfolio-v2-d9xp5hrh7-douglas17.vercel.app/)[cite: 2]
-* **E-mail:** [douglasliradafonseca.ds@gmail.com](mailto:douglasliradafonseca.ds@gmail.com)[cite: 2]
+* **LinkedIn:** [linkedin.com/in/dev-douglas-lira](https://www.linkedin.com/in/dev-douglas-lira)
+* **Portfólio Web:** [portfolio-v2-douglas17.vercel.app](https://portfolio-v2-d9xp5hrh7-douglas17.vercel.app/)
+* **E-mail:** [douglasliradafonseca.ds@gmail.com](mailto:douglasliradafonseca.ds@gmail.com)
 
 <br>
 
