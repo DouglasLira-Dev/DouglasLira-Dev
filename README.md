@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Buscando%20Est%C3%A1gio%20%2F%20J%C3%BAnior-green?style=for-the-badge&logo=target" alt="Status">
-  <img src="https://img.shields.io/badge/Foco-Java%20%7C%20Cybersecurity-blue?style=for-the-badge&logo=oracle" alt="Foco">
+  <img src="https://img.shields.io/badge/Foco-Java%20%7C%20Hacking%20%C3%89tico-blue?style=for-the-badge&logo=oracle" alt="Foco">
 </div>
 
 <br>
