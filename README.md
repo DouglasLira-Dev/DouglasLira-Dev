@@ -83,10 +83,10 @@ $ ls ~/projetos --destaque
 > cat education.log
 ```
 
-* 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — FASUL Educacional EAD (2025 - 2028) · *3º Período*
-* 📜 **APIs Seguras na Era da IA (Essencial)** — IBSEC (2026)
+* 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — FASUL Educacional EAD (Julho/2025 - Janeiro/2028) · *3º Período*
+* 📜 **Segurança de APIs para Desenvolvedores (Essencial)** — IBSEC (2026)
 * 📜 **Technical Support Fundamentals** — Google (2025)
-* 📜 **Legacy JavaScript Algorithms and Data Structures v7** — freeCodeCamp (2025)
+* 📜 **Legacy JavaScript Algorithms and Data Structures** — freeCodeCamp (2025)
 
 ---
 
@@ -113,7 +113,6 @@ $ ls ~/projetos --destaque
 ```
 
 * 💼 **LinkedIn:** [linkedin.com/in/dev-douglas-lira](https://www.linkedin.com/in/dev-douglas-lira)
-* 🌐 **Portfólio Web:** [portfolio-v2-douglas17.vercel.app](https://portfolio-v2-d9xp5hrh7-douglas17.vercel.app/)
 * 📧 **E-mail:** [douglasliradafonseca.ds@gmail.com](mailto:douglasliradafonseca.ds@gmail.com)
 
 <br>
