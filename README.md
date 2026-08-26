@@ -27,25 +27,21 @@
 
 ## Sobre Mim
 
-
-🇧🇷 [Português](#pt) · 🇺🇸 [English](#en) · 🇪🇸 [Español](#es)
-
-<a name="pt"></a>
-**🇧🇷 Português**
 Desenvolvedor **Backend Java** apaixonado por **Cybersegurança** e arquitetura de software segura. Sou estudante de **Análise e Desenvolvimento de Sistemas** na FASUL Educacional, com certificação em **Segurança de APIs pela IBSEC**.
 
 Tenho experiência prática em:
--  Implementação de controle de acesso (RBAC) e autenticação segura
--  Desenvolvimento backend com Java/Spring
--  Testes automatizados (JUnit 5, Mockito)
--  Containerização com Docker
+- Implementação de controle de acesso (RBAC) e autenticação segura
+- Desenvolvimento backend com Java/Spring
+- Testes automatizados (JUnit 5, Mockito)
+- Containerização com Docker
 
 **Filosofia:** Código seguro desde a escrita. Não é questão de "se" vai quebrar, mas de "como" você anticipa.
 
-**Próximo passo**: estudando AWS (Skill Builder)
+**Próximo passo:** estudando AWS (Skill Builder)
 
-<a name="en"></a>
-**🇺🇸 English**
+<details>
+<summary><b>🇺🇸 Read in English</b></summary>
+
 Backend Java Developer passionate about Cybersecurity and secure software architecture. Currently studying Systems Analysis and Development, with a certification in API Security (IBSEC).
 
 Practical experience with:
@@ -58,8 +54,11 @@ Practical experience with:
 
 **Next step:** learning AWS (Skill Builder)
 
-<a name="es"></a>
-**🇪🇸 Español**
+</details>
+
+<details>
+<summary><b>🇪🇸 Leer en Español</b></summary>
+
 Desarrollador Backend Java apasionado por la Ciberseguridad y la arquitectura de software segura. Actualmente estudiando Análisis y Desarrollo de Sistemas, con certificación en Seguridad de APIs (IBSEC).
 
 Experiencia práctica en:
@@ -71,6 +70,8 @@ Experiencia práctica en:
 **Filosofía:** Seguro desde el diseño desde la primera línea de código — no es cuestión de *si* se rompe, sino de *cómo* lo anticipas.
 
 **Próximo paso:** aprendiendo AWS (Skill Builder)
+
+</details>
 
 ---
 
